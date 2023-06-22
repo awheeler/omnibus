@@ -23,7 +23,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'chef-sugar',       '~> 3.0'
   gem.add_dependency 'cleanroom',        '~> 1.0'
-  gem.add_dependency 'mixlib-shellout',  '~> 1.4'
+  gem.add_dependency 'mixlib-shellout',  '~> 3.2.5'
   gem.add_dependency 'mixlib-versioning'
   gem.add_dependency 'ohai',             '~> 16.17.2'
   gem.add_dependency 'ruby-progressbar', '~> 1.7'
